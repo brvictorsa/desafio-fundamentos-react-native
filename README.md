@@ -1,7 +1,7 @@
 ## :rocket: DESAFIO GOMARKETPLACE REACT NATIVE E TYPESCRIPT
 Aplicação GoMarketplace utilizando React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
 
-![AppMobile](https://github.com/brvictorsa/desafio-gomarketplace-react-native/tree/master/src/assets/gomarketplace.png)
+![AppMobile](https://github.com/brvictorsa/desafio-gomarketplace-react-native/blob/master/src/assets/gomarketplace.png)
 
 ### Utilizando uma fake API
 
